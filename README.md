@@ -15,5 +15,8 @@ https://github.com/MattrMoore/Notetaker/
 
 ## Screenshots 
 ![image](https://github.com/MattrMoore/Notetaker/assets/114311012/661a167f-7d6b-441d-b5f2-72864fd6d70d)
-![image](https://github.com/MattrMoore/Notetaker/assets/114311012/e7bdcd3b-25e4-4fbd-9162-b13a06571db7)
+![image](https://github.com/MattrMoore/Notetaker/assets/114311012/c73f26af-2112-4858-92cf-afb16fa4b5ae)
+
+## License 
+MIT
 
