@@ -13,3 +13,7 @@ https://mrmnotetakingapp.herokuapp.com/
 
 https://github.com/MattrMoore/Notetaker/
 
+## Screenshots 
+![image](https://github.com/MattrMoore/Notetaker/assets/114311012/661a167f-7d6b-441d-b5f2-72864fd6d70d)
+![image](https://github.com/MattrMoore/Notetaker/assets/114311012/e7bdcd3b-25e4-4fbd-9162-b13a06571db7)
+
