@@ -1,27 +1,27 @@
 [
     {
         "title": "Contact HR about payroll issue",
-        "text": "123",
+        "text": "303-455-9187",
         "id": "fa4a38b0-7031-11ed-94a2-1b05fc21d582"
     },
     {
         "title": "Morning meeting with Tim at 10",
-        "text": "123",
+        "text": "Conference room 12",
         "id": "ff0ffe20-7031-11ed-94a2-1b05fc21d582"
     },
     {
         "title": "Quarterly Report due friday",
-        "text": "123",
+        "text": "Give to Tim at 5pm",
         "id": "068923c0-7032-11ed-94a2-1b05fc21d582"
     },
     {
         "title": "Check in with clients",
-        "text": "abc",
+        "text": "Danny, Scott and Chelsea",
         "id": "0c8aeba0-7032-11ed-94a2-1b05fc21d582"
     },
     {
         "title": "Lunch meeting Thursday with Steve ",
-        "text": "ccc",
+        "text": "12pm at the Yard",
         "id": "11780f30-7032-11ed-94a2-1b05fc21d582"
     }
 ]
